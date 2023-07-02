@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid #FFB3C3;
+    display: flex;
+    justify-content: flex-end;
+}
+.container > div{
+    padding: 5px;
+    text-align: center;
+    font-size: 14sp;
+    color:#ffffff;
+    border: 2px solid;
+    background-color: #FFB3C3 ;
+}
+.logo {margin-right: auto;}
